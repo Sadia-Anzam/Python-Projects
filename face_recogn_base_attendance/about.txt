@@ -1,0 +1,1 @@
+As the name says this project takes attendance using biometrics (in this case face). The dataset is from kaggle.
