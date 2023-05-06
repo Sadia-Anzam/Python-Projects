@@ -2,7 +2,7 @@ import cv2
 import matplotlib.pyplot as plt
 import numpy as np
 
-imgpath = "C:\\Users\\sharma ji\\Pictures\\test\\4.2.07.tiff"
+imgpath = "C:\\Users\\sadia\\Pictures\\test\\4.2.07.tiff"
 img = cv2.imread(imgpath,0)
 
 plt.subplot(1,2,1)
