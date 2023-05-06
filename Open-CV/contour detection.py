@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 winname = 'contour detection'
 
-path = "C:\\Users\\sharma ji\\Pictures\\test\\4.2.07.tiff"
+path = "C:\\Users\\sadia\\Pictures\\test\\4.2.07.tiff"
 img = cv2.imread(path)
 img = cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
 
