@@ -1,7 +1,7 @@
 import cv2
 import matplotlib.pyplot as plt
 
-imgpath = "C:\\Users\\sharma ji\\Pictures\\test\\4.2.07.tiff"
+imgpath = "C:\\Users\\sadia\\Pictures\\test\\4.2.07.tiff"
 img = cv2.imread(imgpath)
 img = cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
 
